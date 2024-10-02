@@ -7,9 +7,10 @@ Experienced PHP/Laravel developer skilled in coding, debugging, problem-solving,
 
 [![An image of @judesan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/judesan)](https://holopin.io/@judesan)
 
-*   🌍  I'm based in GH, Accra
+*   🌍  I'm based in Accra, Ghana
 *   ✉️  You can contact me at [judekhay@gmail.com](mailto:judekhay@gmail.com)
-*   🧠  I'm learning Cloud Engineering (AWS & GCP)
+*   🧠  I'm a Cloud Engineer, specelized in DevOps
+*   🧑‍💻  Also cool with backend projects in Python, Nodejs & PHP
 *   🤝  I'm open to collaborating on Laravel projects
 
 ### Socials
